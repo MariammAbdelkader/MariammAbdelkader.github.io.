@@ -5,12 +5,12 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: #808000;
 }
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: #0000FF;
   padding-left: 25px;
 }
 
@@ -43,7 +43,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #00000;
+  color: #008080;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
@@ -60,13 +60,13 @@ li{
 	width: 100%;
 	background-color: white;
 	border-bottom: 1px solid black;
-	color: black;
-	display: block;
+	color: #FF0000;
+	display: #FF0000;
 }
 
 .menu-item:hover{
 	background-color: rgba(0,0,0,0.9);
-	color: rgba(0,0,0,0.4);
+	color: #FF0000;
 }
 
 
